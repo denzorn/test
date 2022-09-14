@@ -1,0 +1,2 @@
+C:\Users\denzorn\Documents\test\.ctagsd\ctagsd.json
+C:\Users\denzorn\Documents\test\test.workspace
